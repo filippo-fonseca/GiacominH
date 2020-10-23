@@ -7,11 +7,6 @@
   <img align="left" alt="Email" width="30px" src="https://www.svgrepo.com/show/94769/black-back-closed-envelope-shape.svg" />
 </a>
 
-<!--
-**GiacominH/GiacominH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Ethical Hacking
 - 🌱 I’m currently learning Cyber Security and Ethical Hacking
 - 👯 I’m looking to collaborate on Secuity Deficiencies
@@ -19,3 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: daniel.hernandezgiacomin@gmail.com
 - ⚡ Fun fact: "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" is a correct sentence.
 -->
+
+<!--
+**GiacominH/GiacominH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
