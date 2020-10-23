@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my page! I am a young 14 year old working for Zyndicate. Currently, I'm working on Cyber Secuirity and Ethichal hacking. I really hope you check out all of the amazing future projects. 
 
 <!--
 **GiacominH/GiacominH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
