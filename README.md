@@ -9,7 +9,7 @@ I am a Software Engineer working for [Zyndicate Labs](https://www.zyndicate.app)
   <img align="left" alt="Email" width="30px" src="https://www.svgrepo.com/show/94769/black-back-closed-envelope-shape.svg" />
 </a>
 
-<br>
+<br><br />
 
 - 🔭 I’m currently working on Ethical Hacking
 - 🌱 I’m currently learning Cyber Security and Ethical Hacking
