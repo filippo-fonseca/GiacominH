@@ -22,9 +22,3 @@ Currently, I'm working on Cyber Secuirity and Ethichal hacking. I really hope yo
 - ⚡ Fun fact: "Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo" is a correct sentence.
 
 <br></br>
--->
-
-<!--
-**GiacominH/GiacominH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
