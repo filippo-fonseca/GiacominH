@@ -1,4 +1,8 @@
-### Welcome to my page! I am a young 14 year old working for @Zyndicatelabs . Currently, I'm working on Cyber Secuirity and Ethichal hacking. I really hope you check out all of the amazing future projects. 
+### Welcome! 
+
+I am a young 14 year old working for @Zyndicatelabs.
+
+Currently, I'm working on Cyber Secuirity and Ethichal hacking. I really hope you check out all of the amazing future projects. 
 
 <a href="https://www.instagram.com/giacomin05">
   <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
